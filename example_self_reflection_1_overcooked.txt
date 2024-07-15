@@ -1,4 +1,3 @@
-
 The current situation is: there are no onions on the crafting table and shared bar. 
 The generated goal from the goal generation and decomposition personnel is: making onion soup. 
 The decomposed two sub-goals from the goal generation and decomposition personnel are: one chef takes an onion from the onion storage room and transports it to the shared bar; one chef transports an onion from the shared bar to the crafting table. 
