@@ -1,0 +1,4 @@
+1. Write all information helpful for the game in a numbered list.
+2. In plain text. List all objects I need to interact/avoid to survive in the game. Use "I would like to X object Y" in each step. Replace Y by the actual object, X by the actual interaction.
+3. Write all game objectives numbered list. For each objective, list its requirements.
+4. Write all actions as a numbered list. For each action, list its requirements.
