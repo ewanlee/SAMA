@@ -1,0 +1,19 @@
+[For Goal Generation and Decomposition Phase]
+
+Previous failed goals: None.
+
+Previous failed sub-goals: one chef takes an onion from the onion storage room and transports it to the shared bar; one chef transports an onion from the shared bar to the crafting table.
+
+For more reasonable goal generation and decomposition, the goals I generate or the sub-goals I decompose should no longer be consistent with previously failed goals or sub-goals.
+
+[Similar with instructions for goal generation and decomposition]
+
+---
+
+[For Subgoal Allocation Phase]
+
+Previous failed subgoal assignments: Chef A: one chef takes an onion from the onion storage room and transports it to the shared bar; Chef B: one chef transports an onion from the shared bar to the crafting table.
+
+For more reasonable subgoal assignment, the assignment I make should no longer be consistent with previously failed subgoal assignments.
+
+[Similar with instructions for subgoal allocation]
