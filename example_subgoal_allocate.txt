@@ -1,0 +1,17 @@
+The two current sub-goals: 
+1. one chef takes an onion from the onion storage room and transports it to the shared bar; 
+2. one chef transports an onion from the shared bar to the crafting table.
+
+The current status of the game: 
+one crafting table is making onion soups, two onions are on the other crafting table, and one onion is on the shared bar.
+
+The current status of the two chefs: Chef A is idle in the left room; Chef B is idle in the right room.
+
+To allocate sub-goals reasonably and efficiently, let us think step by step: 
+the current two sub-goals are one chef takes an onion from the onion storage room and transports it to the shared bar, and one chef transports an onion from the shared bar to the crafting table. 
+We can assign two sub-goals to the two chefs since they are both idle. 
+Note that the onion storage room is in the left room, where Chef A is, so only Chef A can take the onion. 
+Similarly, the crafting tables are in the right room, where Chef B is located, so only Chef B can access the crafting table and transport the onion from the shared bar to the crafting table. 
+Therefore, the result of the two current sub-goals assignment is as follows: 
+Chef A: one chef takes an onion from the onion storage room and transports it to the shared bar; 
+Chef B: one chef transports an onion from the shared bar to the crafting table.
