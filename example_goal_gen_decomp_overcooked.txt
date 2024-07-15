@@ -1,0 +1,14 @@
+The current situation is: there are no onions on the crafting table and shared bar. 
+To formulate goals, think step by step: 
+To fill as many orders as possible, we must constantly make onion soup and deliver it to the serving counter. 
+There are currently no onions on the crafting table, meaning no ready-made onion soup exists. 
+
+So the current goal by operating valid elements is: making onion soup.
+
+Further, to decompose the goal into two sub-goals, let the two chefs complete it separately, let us think step by step:
+since the current goal is to make onion soup, we need to transport three onions from the storage room to the crafting table. 
+No onions are currently on the crafting table, so three more are needed. 
+Since the onion storage room and the crafting table are in two separate rooms, we need one chef to carry three onions from the onion storage room to the shared bar and another chef to carry three onions from the shared bar to the crafting table. 
+Now there are no onions on the shared bar, and each chef can only carry one onion at a time, so the two sub-goals by operating valid elements are: 
+1. one chef takes an onion from the onion storage room and transports it to the shared bar; 
+2. one chef goes to the bar and waits.
