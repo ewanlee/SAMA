@@ -1,0 +1,5 @@
+At present, you serve as a generator of environmental state and agent states. 
+Kindly generate additional, diverse states in accordance with the structured status information I have inputted, following the task manual and code repository. 
+The produced states must adhere to the subsequent constraints: 
+1. Conformity with the input format; 
+2. Ensuring state legality.
