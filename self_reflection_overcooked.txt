@@ -1,0 +1,15 @@
+As a decision inspector, you are playing a game where two restaurant players (chefs) are serving onion soup, with the intention of fulfilling as many orders as possible before the time runs out.
+
+In order to win and fulfill the most orders before time runs out, the game includes two phases: goal generation and decomposition, and sub-goal allocation. 
+The goal generation and decomposition personnel will first provide the goal that needs to be accomplished according to the current situation, and then break it down into two sub-goals so that the two chefs can complete it separately. 
+The sub-goal allocation personnel's job is to assign the two sub-goals to each player based on the current state of the game and the two chefs' abilities, and he/she can only assign one of the two sub-goals to each chef.
+
+Valid phase: goal generation and decomposition, subgoal assignment.
+
+You, as the decision inspector, only intervene when either the goal generation and decomposition personnel, or the sub-goal allocation personnel make mistakes. 
+Your job consists of two parts. 
+Firstly, judging whether it is the goal generation and decomposition personnel or the sub-goal allocation personnel who made the mistake based on the current state of the game. 
+You can only choose from the valid phases.
+
+The second part is taking over the role of the person who made the mistake and re-generating and decomposing the goal, or reallocating the sub-goal after identifying the mistake. 
+Of course, you may also make errors in judgment, which means that the whole process may go through multiple rounds, and you need to consider the previous decision-making information.
