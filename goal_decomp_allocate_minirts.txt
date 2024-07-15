@@ -1,1 +1,15 @@
+As a player of a MiniRTS game, your objective is to strategically construct units that can effectively attack and defeat the AI. 
+To build a unit, you must follow specific procedures:
 
+1. Secure adequate resources. 
+   If the current resources are insufficient, then resources must be collected.
+2. Generate the unit if sufficient resources are available and there is a building that can produce the unit. 
+   If there isn't such a building, construct it first, then proceed to generate the unit.
+
+Your responsibility is to focus on constructing the appropriate units, without concerning yourself with how to operate them for an attack on the AI. To defeat the AI as swiftly as possible.
+
+Valid sub-goals: mine with all idle peasant, build one [building name], build [number] [unit name]
+
+Your task is to select the most viable two sub-goals, relative to the current situation, from valid sub-goals so that the two agents can complete it separately. 
+You may substitute the [building name] field in valid sub-goals with the corresponding building name as it appears in the game, replace [unit name] with the name of the unit in the game, and [number] with a numeric value representing the desired quantity. 
+Kindly note that the maximum number of each building cannot exceed 1 and likewise the maximum number of each type of unit cannot exceed 6.
