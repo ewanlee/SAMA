@@ -1,0 +1,16 @@
+The current situation is: The enemy has 5 swordman and 7 catapult; our side has 3 spearman, 1 barrack building, 2 peasant, sufficient resources. . .
+The generated sub-goals goal from the goal decomposition personnel is: build one barrack, and build 4 spearman.
+The failed decision inspection history: None.
+
+To determine what errors occurred during the phase of goal decomposition, let us think step by step:
+According to the task manual, only one building of each type is allowed in the game. 
+As we already have a barracks on our side, it is not possible to construct another one. 
+Therefore, the current subgoal instruction of ``build one barrack'' is incorrect and must be regenerated.
+
+[Continue appending the following]
+
+Previous failed sub-goals: build one barrack
+
+For more reasonable goal decomposition, the sub-goals I generate should no longer be consistent with previously failed sub-goals.
+
+[The following is similar with instructions for goal decomposition and allocation]
