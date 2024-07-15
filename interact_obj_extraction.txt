@@ -1,0 +1,1 @@
+Extract all pertinent, interactive objects from the task manual, which are instrumental in accomplishing the task. Refrain from including extraneous items, and present the extracted objects in a comma-separated list.
