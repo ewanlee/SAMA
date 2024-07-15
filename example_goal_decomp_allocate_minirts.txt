@@ -1,0 +1,32 @@
+The current situation is: The enemy has 5 swordman and 7 catapult; our side has 3 spearman, 1 barrack building, 2 peasant, sufficient resources. . .
+
+To formulate sub-goals, let us think step by step: 
+To overcome the enemy's weaponry, our forces must produce superior arms that are based on attacking dynamics. 
+Firstly, the opposition possesses 5 swordsmen, which can be bested by cavalry units. 
+Unfortunately, we do not currently have this unit available, so it is imperative that we construct the stable building in order to produce cavalry. 
+Fortunately, we presently have ample resources to build the stable, thus it is imperative that we prioritize this subgoal. 
+Additionally, the enemy's artillery includes 7 catapults, which can be countered by all other types of units. 
+With 3 spearman units available to us, we are equipped to restrain enemy catapults.
+However, we require additional forces to match the enemy's 7 artillery units. 
+To achieve combat parity, we must procure 7-3=4 additional spearman units. 
+Luckily, we already have a barracks building to generate spearman and with our current resources, we can readily construct the required 4 units.
+
+So the current two sub-goals select from valid sub-goals are: build one stable, and build 4 spearman.
+
+---
+
+The current situation is: The enemy has 7 catapult; our side has 3 spearman, 1 barrack building, 2 peasant, sufficient resources. . .
+
+To formulate sub-goals, let us think step by step: 
+To overcome the enemy's weaponry, our forces must produce superior arms that are based on attacking dynamics. 
+Firstly, the enemy's artillery includes 7 catapults, which can be countered by all other types of units. 
+With 3 spearman units available to us, we are equipped to restrain enemy catapults.
+However, we require additional forces to match the enemy's 7 artillery units. 
+To achieve combat parity, we must procure 7-3=4 additional spearman units. 
+Luckily, we already have a barracks building to generate spearman and with our current resources, we can readily construct the required 4 units. 
+The aforementioned subgoal can be achieved by a single agent, and there are no other enemy units to be vanquished. 
+To avoid leaving another agent idle, our second subgoal could be deemed more extensive in scope. 
+To swiftly counter the enemy's strategy, ample resources must be at our disposal. 
+As it stands, our force consists of two peasant, hence the second sub-goal entails having these peasant gather resources.
+
+So the current two sub-goals select from valid sub-goals are: build 4 spearman, and mine with all idle peasant.
