@@ -1,0 +1,1 @@
+At present, you serve as a translator of environmental state, agent states, and actions. It is incumbent upon you to extract the explicit semantics represented by the structured information I provide, guided by the task manual and drawing from the code repository. Synthesize the acquired information into one sentence, articulating it in refined natural language.
