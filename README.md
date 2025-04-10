@@ -1,2 +1,2 @@
 # SAMA
-The code of the paper "Tackling Multi-Agent Credit Assignment with Disentangled Decision Making".
+The code of the AISTATS'25 paper "Multi-Agent Credit Assignment with Pretrained Language Models".
